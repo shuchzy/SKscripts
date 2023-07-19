@@ -26,3 +26,9 @@ Firewall_off.exe
 windows exe file that turn off the windows firewall
 
 ----------------------------------------------
+
+print_spooler_restart.exe
+
+restart the print spooler service
+
+-----------------------------------------------
