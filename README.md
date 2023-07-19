@@ -21,3 +21,8 @@ you will be asked for an IP and Gateway...
 
 ---------------------------------------------
 
+Firewall_off.exe
+
+windows exe file that turn off the windows firewall
+
+----------------------------------------------
