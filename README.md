@@ -43,7 +43,7 @@ restart the print spooler service
 
 -----------------------------------------------
 
-wifi_pass_clear.exe
+wifi password shower.exe
 
 for show the wifi networks passwords in clear text
 the .py file is the code !!!
