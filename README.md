@@ -42,3 +42,10 @@ print_spooler_restart.exe
 restart the print spooler service
 
 -----------------------------------------------
+
+wifi_pass_clear.exe
+
+for show the wifi networks passwords in clear text
+the .py file is the code !!!
+
+------------------------------------------------
